@@ -1,4 +1,4 @@
-# Laboratórios e slides da Disciplina de Algoritmos e Programação de Computadores
+# Laboratórios e slides da Disciplina de Algoritmos e Programação de Computadores (1S2023)
 
 ## Descrição
 Este repositório contém trabalhos desenvolvidos durante minha formação em Algoritmos e Programação de Computadores, no primeiro semestre de 2023. E embora represente uma fase anterior da minha evolução como desenvolvedor e estudante e tenha sido criado apenas para armazenar os códigos desenvovidos e o conteúdo lecionado na discplina, decidi mantê-lo público como registro da minha trajetória.
